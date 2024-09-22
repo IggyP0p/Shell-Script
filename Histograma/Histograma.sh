@@ -1,6 +1,6 @@
 #!/bin/bash
 #
-# tabela.sh (shell script)
+# Histograma.sh (shell script)
 #
 # AUTOR: IggyP0p (github)
 #
